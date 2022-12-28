@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋;</h1>
 
-- 🌱 I’m currently learning **React, Node, GraphQL**
+- 📝  [https://blog.5bang.top/](https://blog.5bang.top/)
 
-- 📝 I regularly write articles on [https://blog.5bang.top/](https://blog.5bang.top/)
-
-- 💬 Ask me about **React, Vue**
-
-- 📫 How to reach me **ei_shen@163.com**
+- 📫  **occupy555@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
