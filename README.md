@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋;</h1>
 
-- 📝  [https://blog.5bang.top/](https://blog.5bang.top/)
+- 📝  [https://xlog.5bang.top/](https://xlog.5bang.top/)
 
 - 📫  **ei_shen@outlook.com**
 
